@@ -1,0 +1,6 @@
+.persistedshare/
+.persistedshare/
+shared/.env
+shared/.env-secrets
+shared/.user-secrets.json
+shared/user-secrets-envs.json
