@@ -29,4 +29,4 @@ void print_pyramid(long height)
         printf("\n");
     }
 }
-lll
+

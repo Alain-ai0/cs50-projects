@@ -7,12 +7,6 @@
       "stepDetail": null
     },
     {
-      "name": "Running postCreateCommand...",
-      "status": "succeeded",
-      "description": null,
-      "stepDetail": "/opt/cs50/bin/postCreateCommand"
-    },
-    {
       "name": "Running postStartCommand...",
       "status": "succeeded",
       "description": null,
