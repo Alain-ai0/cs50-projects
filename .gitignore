@@ -1,6 +1,37 @@
-.persistedshare/
-.persistedshare/
-shared/.env
-shared/.env-secrets
-shared/.user-secrets.json
-shared/user-secrets-envs.json
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled files and executables
+*.exe
+*.o
+*.out
+a.out
+credit
+mario-more
+calculator
+cat
+pset2
+me
+shared
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Any executable files (common CS50 pattern)
+*
+!*/
+!*.*
+!Makefile
+!README*
+!LICENSE*
